@@ -2,7 +2,7 @@ from tkinter import *
 
 me = Tk()
 me.geometry("342x460")
-me.title("CALC")
+me.title("Калькулятор")
 me.config(background="Light green")
 
 textin = StringVar()
